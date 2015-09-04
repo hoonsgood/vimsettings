@@ -1,0 +1,3 @@
+colorscheme molokai
+"colorscheme 256-jungle
+let g:airline_theme = 'molokai'
