@@ -203,6 +203,8 @@ if has('statusline')
 	set statusline+=%=%-14.(%l,%c%V%)\%p%% " Right aligned file nav info
 endif
 
+set encoding=utf-8
+set fileencodings=utf-8,euckr
 set backspace=indent,eol,start
 set linespace=0
 set nu
